@@ -1,23 +1,23 @@
 # DataScience-Training
 from Internshala 
-# 1. INTRODUCTION TO DATA SCIENCE
+## 1. INTRODUCTION TO DATA SCIENCE
 
 Get an overview of data science. Understand its different applications and get insights on how is data science disrupting industries.
 
-#  2. PYTHON FOR DATA SCIENCE
+##  2. PYTHON FOR DATA SCIENCE
 
 Learn the basics of python - how to read a CSV file, understand operators, variables, dictionaries, functions, and data structure in data science.
 
-#  3. UNDERSTANDING THE STATISTICS FOR DATA SCIENCE
+##  3. UNDERSTANDING THE STATISTICS FOR DATA SCIENCE
 
 Learn about data distribution, probability, data statistics and types of testing. Understand the concepts of Descriptive stats and Inferential stats.
 
-#  4. PREDICTIVE MODELING AND BASICS OF MACHINE LEARNING
+##  4. PREDICTIVE MODELING AND BASICS OF MACHINE LEARNING
 
 Learn about predictive models & their stages, data extraction & exploration, univariate & bivariate analysis, model building, and linear regression.
 
 #  FINAL PROJECT
-# Problem Statement
+## Problem Statement
 Your client is a retail banking institution. Term deposits are a major source
 of income for a bank.
 A term deposit is a cash investment held at a financial institution. Your
